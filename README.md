@@ -1,7 +1,7 @@
 ## Olá, Mundo 👋
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ocartaxo&locale=pt-br&layout=compact&theme=darcula)
+![Minhas linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ocartaxo&size_weight=0&count_weight=1&locale=pt-br&layout=compact&theme=darcula&)
 
 <div>
 <!--   <a href="https://github.com/ocartaxo/github-readme-stats">
