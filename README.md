@@ -1,8 +1,6 @@
 ## Olá, Mundo 👋
 
 
-![Minhas linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ocartaxo&size_weight=0&count_weight=1&locale=pt-br&layout=compact&theme=darcula&)
-
 <div>
 <!--   <a href="https://github.com/ocartaxo/github-readme-stats">
     <img height=200 width=800 vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=ocartaxo&theme=vue&card_width=600"/>
