@@ -10,7 +10,7 @@
             <li>👯 I’m looking to collaborate on high-performance distributed systems, data engineering tools, or any challenging backend architecture.</li>
             <li>🤔 I’m looking for help with connecting with researchers, engineers, or anyone building software applied to hard sciences.</li>
             <li>💬 Ask me about data structures and algorithms, software engineering, distributed systems, network programming, operating systems, and databases</li>
-            <li>📫 How to reach me: You can reach me via [Email] or [LinkedIn]. Always down for a chat about software engineering, math, or why Pink Floyd is the greatest band of all time.</li>
+            <li>📫 How to reach me: You can reach me via <a href="mailto:oacartaxo@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/ocartaxo/">LinkedIn</a>. Always down for a chat about software engineering, math, or why Pink Floyd is the greatest band of all time.</li>
             <li>😄 Pronouns: He/Him</li>
             <li>⚡ Fun fact: I've been training Shotokan Karate for 15+ years and I'm a black belt.</li>
         </ul>
