@@ -2,7 +2,7 @@
   <tr>
     <td width="60%">
       <h2>Hello there, I'm Otavio Cartaxo 👋</h2>
-        I'm a passionate about solving hard problems using technology
+        I am a Software Engineer driven by the challenge of solving complex problems at the intersection of mathematics and technology
         <br><br>
         <ul>
             <li>🔭 Currently I'm building software at AI/R Uol Company</li>
