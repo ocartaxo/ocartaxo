@@ -77,6 +77,7 @@
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
       <img src="https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff" />
       <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka&logoColor=fff" />
     </td>
     <td width="50%" valign="top" align="center">
       <h4>🖥️ OS</h4>
