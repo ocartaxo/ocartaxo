@@ -6,7 +6,7 @@
         <br><br>
         <ul>
             <li>🔭 Currently I'm building software at AI/R Uol Company</li>
-            <li>🌱 Currently studying AI/ML, Real Analysis, Physics, Abstract Algebra, Discrete Math, Probability, Combinatorics, and Graph Theory</li>
+            <li>🌱 Currently studying AI/ML, Statistics, Linear Algebra, Probability, Extremal Combinatorics, and Graph Theory</li>
             <li>👯 I’m looking to collaborate on high-performance distributed systems, data engineering tools, or any challenging backend architecture.</li>
             <li>🤔 I’m looking to connect with researchers, engineers, or anyone building software applied to hard sciences.</li>
             <li>💬 Ask me about data structures and algorithms, software engineering, distributed systems, network programming, operating systems, databases, and compilers</li>
