@@ -35,16 +35,10 @@
       <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
       <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" />
-      <img src="https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
     </td>
     <td width="50%" valign="top" align="center">
       <h4>🚀 Frameworks & 🧠 AI/ML</h4>
@@ -52,11 +46,8 @@
       <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff" />
-      <img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000" />
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff" />
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&logo=spring&logoColor=white" />
       <br><br>
       <img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" />
       <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" />
