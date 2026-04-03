@@ -16,8 +16,7 @@
         </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github.com/user-attachments/assets/a794acff-d513-44f8-ba1f-509cb90cfbfa" width="400" />
-      <br>
+      <img src="https://github.com/user-attachments/assets/422d2378-0ab6-4e58-8c3f-b950cb876521" width="400" />
       <a href="https://github.com/ocartaxo/github-readme-stats">
         <img src="https://readme-stats-wheat-six-32.vercel.app/api?username=ocartaxo&theme=blueberry&hide=contribs" width="400" />
       </a>
