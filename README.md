@@ -9,7 +9,7 @@
             <li>🌱 Currently studying AI/ML, Statistics, Linear Algebra, Probability, Extremal Combinatorics, and Graph Theory</li>
             <li>👯 I’m looking to collaborate on high-performance distributed systems, data engineering tools, or any challenging backend architecture.</li>
             <li>🤔 I’m looking to connect with researchers, engineers, or anyone building software applied to hard sciences.</li>
-            <li>💬 Ask me about Data Structures and Algorithms, Software Engineering, Distributed Systems, Network Programming, Operating Systems, Databases, and Compilers</li>
+            <li>💬 Ask me about Data Structures and Algorithms, Combinatorics, Software Engineering, Distributed Systems, Operating Systems and Databases</li>
             <li>📫 How to reach me: You can reach me via <a href="mailto:oacartaxo@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/ocartaxo/">LinkedIn</a>. Always down for a chat about software engineering, math, or why Pink Floyd is the greatest band of all time.</li>
             <li>😄 Pronouns: He/Him</li>
             <li>⚡ Fun fact: I've been training Shotokan Karate for 15+ years and I'm a black belt.</li>
