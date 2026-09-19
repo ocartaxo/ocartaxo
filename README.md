@@ -5,8 +5,8 @@
         I am a Software Engineer driven by the challenge of solving complex problems at the intersection of mathematics and technology
         <br><br>
         <ul>
-            <li>🔭 Currently I'm building software at AI/R Uol Company</li>
-            <li>🌱 Currently studying AI/ML, Statistics, Linear Algebra, Probability, Extremal Combinatorics, and Graph Theory</li>
+            <li>🔭 Actively seeking new opportunities as a Software Engineer.</li>
+            <li>🌱 Nowadays, my studies are focused on AI/ML, Statistics, Linear Algebra, Probability, Extremal Combinatorics, and Graph Theory.</li>
             <li>👯 I’m looking to collaborate on high-performance distributed systems, data engineering tools, or any challenging backend architecture.</li>
             <li>🤔 I’m looking to connect with researchers, engineers, or anyone building software applied to hard sciences.</li>
             <li>💬 Ask me about Data Structures and Algorithms, Combinatorics, Software Engineering, Distributed Systems, Operating Systems and Databases</li>
